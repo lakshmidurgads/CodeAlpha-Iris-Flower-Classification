@@ -150,17 +150,8 @@ Model Accuracy
 
 The model achieved an accuracy of:
 
-[YOUR ACCURACY HERE]
+[100%]
 
-For example, if your notebook shows:
-
-"0.9667"
-
-you can write:
-
-96.67%
-
----
 
 >Confusion Matrix
 
@@ -247,7 +238,7 @@ This project was completed as part of the practical tasks assigned during my Cod
 
 GitHub Repository:
 
-[Add your GitHub repository link here]
+https://github.com/lakshmidurgads/CodeAlpha-Iris-Flower-Classification
 
 ---
 
